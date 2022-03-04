@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/mobcoder/Documents/office/flutter/mob_kilter/build/flutter_plugin_android_lifecycle/intermediates/res/merged/debug/drawable/notification_bg.xml",
+        "source": "/Users/mobcoder/.gradle/caches/transforms-2/files-2.1/e88ef056eff2e5129b2ab770e17d8cac/core-1.6.0/res/drawable/notification_bg.xml"
+    },
+    {
+        "merged": "/Users/mobcoder/Documents/office/flutter/mob_kilter/build/flutter_plugin_android_lifecycle/intermediates/res/merged/debug/drawable/notification_icon_background.xml",
+        "source": "/Users/mobcoder/.gradle/caches/transforms-2/files-2.1/e88ef056eff2e5129b2ab770e17d8cac/core-1.6.0/res/drawable/notification_icon_background.xml"
+    },
+    {
+        "merged": "/Users/mobcoder/Documents/office/flutter/mob_kilter/build/flutter_plugin_android_lifecycle/intermediates/res/merged/debug/drawable/notification_bg_low.xml",
+        "source": "/Users/mobcoder/.gradle/caches/transforms-2/files-2.1/e88ef056eff2e5129b2ab770e17d8cac/core-1.6.0/res/drawable/notification_bg_low.xml"
+    },
+    {
+        "merged": "/Users/mobcoder/Documents/office/flutter/mob_kilter/build/flutter_plugin_android_lifecycle/intermediates/res/merged/debug/drawable/notification_tile_bg.xml",
+        "source": "/Users/mobcoder/.gradle/caches/transforms-2/files-2.1/e88ef056eff2e5129b2ab770e17d8cac/core-1.6.0/res/drawable/notification_tile_bg.xml"
+    }
+]

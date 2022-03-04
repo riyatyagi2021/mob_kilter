@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "/Users/mobcoder/Documents/office/flutter/mob_kilter/build/shared_preferences_android/intermediates/res/merged/debug/layout/notification_template_icon_group.xml",
+        "source": "/Users/mobcoder/.gradle/caches/transforms-2/files-2.1/e88ef056eff2e5129b2ab770e17d8cac/core-1.6.0/res/layout/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "/Users/mobcoder/Documents/office/flutter/mob_kilter/build/shared_preferences_android/intermediates/res/merged/debug/layout/notification_action.xml",
+        "source": "/Users/mobcoder/.gradle/caches/transforms-2/files-2.1/e88ef056eff2e5129b2ab770e17d8cac/core-1.6.0/res/layout/notification_action.xml"
+    },
+    {
+        "merged": "/Users/mobcoder/Documents/office/flutter/mob_kilter/build/shared_preferences_android/intermediates/res/merged/debug/layout/notification_action_tombstone.xml",
+        "source": "/Users/mobcoder/.gradle/caches/transforms-2/files-2.1/e88ef056eff2e5129b2ab770e17d8cac/core-1.6.0/res/layout/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "/Users/mobcoder/Documents/office/flutter/mob_kilter/build/shared_preferences_android/intermediates/res/merged/debug/layout/notification_template_part_time.xml",
+        "source": "/Users/mobcoder/.gradle/caches/transforms-2/files-2.1/e88ef056eff2e5129b2ab770e17d8cac/core-1.6.0/res/layout/notification_template_part_time.xml"
+    },
+    {
+        "merged": "/Users/mobcoder/Documents/office/flutter/mob_kilter/build/shared_preferences_android/intermediates/res/merged/debug/layout/notification_template_part_chronometer.xml",
+        "source": "/Users/mobcoder/.gradle/caches/transforms-2/files-2.1/e88ef056eff2e5129b2ab770e17d8cac/core-1.6.0/res/layout/notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "/Users/mobcoder/Documents/office/flutter/mob_kilter/build/shared_preferences_android/intermediates/res/merged/debug/layout/custom_dialog.xml",
+        "source": "/Users/mobcoder/.gradle/caches/transforms-2/files-2.1/e88ef056eff2e5129b2ab770e17d8cac/core-1.6.0/res/layout/custom_dialog.xml"
+    }
+]

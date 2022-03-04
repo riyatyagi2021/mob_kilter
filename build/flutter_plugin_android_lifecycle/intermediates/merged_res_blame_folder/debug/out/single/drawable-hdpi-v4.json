@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "/Users/mobcoder/Documents/office/flutter/mob_kilter/build/flutter_plugin_android_lifecycle/intermediates/res/merged/debug/drawable-hdpi-v4/notification_bg_low_normal.9.png",
+        "source": "/Users/mobcoder/.gradle/caches/transforms-2/files-2.1/e88ef056eff2e5129b2ab770e17d8cac/core-1.6.0/res/drawable-hdpi-v4/notification_bg_low_normal.9.png"
+    },
+    {
+        "merged": "/Users/mobcoder/Documents/office/flutter/mob_kilter/build/flutter_plugin_android_lifecycle/intermediates/res/merged/debug/drawable-hdpi-v4/notification_bg_low_pressed.9.png",
+        "source": "/Users/mobcoder/.gradle/caches/transforms-2/files-2.1/e88ef056eff2e5129b2ab770e17d8cac/core-1.6.0/res/drawable-hdpi-v4/notification_bg_low_pressed.9.png"
+    },
+    {
+        "merged": "/Users/mobcoder/Documents/office/flutter/mob_kilter/build/flutter_plugin_android_lifecycle/intermediates/res/merged/debug/drawable-hdpi-v4/notification_bg_normal.9.png",
+        "source": "/Users/mobcoder/.gradle/caches/transforms-2/files-2.1/e88ef056eff2e5129b2ab770e17d8cac/core-1.6.0/res/drawable-hdpi-v4/notification_bg_normal.9.png"
+    },
+    {
+        "merged": "/Users/mobcoder/Documents/office/flutter/mob_kilter/build/flutter_plugin_android_lifecycle/intermediates/res/merged/debug/drawable-hdpi-v4/notification_bg_normal_pressed.9.png",
+        "source": "/Users/mobcoder/.gradle/caches/transforms-2/files-2.1/e88ef056eff2e5129b2ab770e17d8cac/core-1.6.0/res/drawable-hdpi-v4/notification_bg_normal_pressed.9.png"
+    },
+    {
+        "merged": "/Users/mobcoder/Documents/office/flutter/mob_kilter/build/flutter_plugin_android_lifecycle/intermediates/res/merged/debug/drawable-hdpi-v4/notify_panel_notification_icon_bg.png",
+        "source": "/Users/mobcoder/.gradle/caches/transforms-2/files-2.1/e88ef056eff2e5129b2ab770e17d8cac/core-1.6.0/res/drawable-hdpi-v4/notify_panel_notification_icon_bg.png"
+    }
+]
