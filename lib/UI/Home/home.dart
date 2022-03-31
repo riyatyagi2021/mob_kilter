@@ -150,7 +150,8 @@ class _HomePageState extends State<HomePage> {
                                        Duration(seconds: 1),
                                           () {
                                      print("helllllllllo");
-                                       BlocProvider.of<HomeBloc>(context).onPagination(1);
+                                     pageNo = 1;
+                                       BlocProvider.of<HomeBloc>(context).onPagination(pageNo);
                                     });
                                       },
                                     child: ListView.builder(
