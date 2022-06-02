@@ -23,7 +23,7 @@ class EditFoodRepository {
     };
 
     if(AQ!=0){
-      editData.putIfAbsent(price, () => AQ);
+      editData.putIfAbsent(AQ, () => AQ);
     }
     final res = await http.put(
         Uri.parse('https://devhrmapi.mobcoder.com/hrm/api/v1/food/update'),

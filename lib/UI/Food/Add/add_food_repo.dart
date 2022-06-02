@@ -30,8 +30,6 @@ class AddFoodRepository {
     }*/
 
 
-
-
     request.headers["accessToken"] = accesstoken.toString();
     request.headers['Authorization'] = 'Basic aHJtX2FkbWluOmFkbWluQGhybQ==';
     request.fields['name'] = name;

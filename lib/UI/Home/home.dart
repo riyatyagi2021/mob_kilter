@@ -193,13 +193,13 @@ class _HomePageState extends State<HomePage> {
                                                       child: Container(
                                                         width: 90,
                                                         height: 90,
-                                                        child: ClipRRect(
+                                                        child:ClipRRect(
                                                           child: FadeInImage
                                                               .assetNetwork(
                                                             placeholder:
                                                             'assets/images/coldcoffee.jpeg',
-                                                            image:
-                                                            '${apiData?.foodItemList?[index].images?[0]}',
+                                                            image:(apiData?.foodItemList?[index].images?.length??0)>0?
+                                                            '${apiData?.foodItemList?[index].images?[0]}':'assets/images/coldcoffee.jpeg',
                                                             imageErrorBuilder:
                                                                 (context, error,
                                                                 stackTrace) {
@@ -214,9 +214,9 @@ class _HomePageState extends State<HomePage> {
                                                           BorderRadius
                                                               .circular(
                                                               10.0),
-                                                        ),
+                                                        )
+                                                        )
                                                       ),
-                                                    ),
                                                     SizedBox(
                                                       width: 20,
                                                     ),

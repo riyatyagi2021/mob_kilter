@@ -176,7 +176,7 @@ class _EditFoodState extends State<EditFood> {
                             width: 90,
                             height: 90,
                             child: ClipRRect(
-                              child:Image.network(widget.foodImagee![0],
+                              child:Image.network(widget.foodImagee?.first,
                                 fit: BoxFit.cover,
                               ),
                               borderRadius: BorderRadius.all(Radius.circular(10)),
@@ -215,7 +215,7 @@ class _EditFoodState extends State<EditFood> {
                             if(newFoodName.text.isNotEmpty && newQuant.text.isNotEmpty && newPrice.text.isNotEmpty){
                               editFood();
                             }else{
-                              Fluttertoast.showToast(msg: "Food name and price is compulsory");
+                              Fluttertoast.showToast(msg: "Fill new data in all");
                             }
                           },
                           style: ElevatedButton.styleFrom(
